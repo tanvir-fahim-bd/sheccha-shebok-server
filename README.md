@@ -255,7 +255,7 @@ Software Engineer | Full-Stack Developer
 
 - **GitHub:** https://github.com/TanvirFahimBD
 - **LinkedIn:** https://www.linkedin.com/in/tanvir-fahim/
-- **Portfolio:** https://tanvir-fahim-portfolio.netlify.app/
+- **Portfolio:** https://tanvir-fahim-bd.netlify.app/
 
 ---
 
